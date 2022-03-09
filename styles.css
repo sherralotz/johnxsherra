@@ -76,6 +76,7 @@
   cursor: pointer;
   padding-top: 20px;
   padding-bottom: 20px;
+  user-select: none;
 }
 
 .faq .card .card-header .faq-title .badge {
