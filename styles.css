@@ -77,8 +77,11 @@
   padding-top: 20px;
   padding-bottom: 20px;
   user-select: none;
+}   
+.palette-baby{ 
+  height: 25px;
+  margin: 10px -10px; 
 }
-
 .faq .card .card-header .faq-title .badge {
   display: inline-block;
   width: 20px;
