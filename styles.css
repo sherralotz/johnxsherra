@@ -1,7 +1,9 @@
 :root {
     --accent: #bd2130; 
   }
-
+a{
+  color: var(--accent);
+}
 .faq-section {
     background: #fdfdfd;
     min-height: 100vh;
